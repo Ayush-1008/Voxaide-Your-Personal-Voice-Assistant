@@ -3,7 +3,7 @@ This is a simple yet powerful Voice-Controlled Assistant built using Python. It 
 
 # Features
 
--🎤 Wake Word Detection: Say "wake up" or "wake" to activate the assistant.
+-🎤 *Wake Word Detection: Say "wake up" or "wake" to activate the assistant.
 
 -🧠 Voice Command Recognition: Understands various tasks like opening websites, apps, checking time/date, etc.
 
