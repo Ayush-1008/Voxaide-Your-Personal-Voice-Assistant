@@ -71,7 +71,7 @@ def run_assistant():
                 speak("Network issue.")
                 continue
 
-        if wake_text.lower() in ["wake up", "wake"]:   
+        if wake_text.lower() in ["hlo voxa", "voxa"]:   
             beep() 
             speak("Yes ! I am Listening.")
             speak("How can I help You Today?")
