@@ -1,7 +1,8 @@
 # Voxaide-Your-Personal-Voice-Assistant
 This is a simple yet powerful Voice-Controlled Assistant built using Python. It responds to your voice commands, performs web searches, opens applications, checks battery percentage, and more — all with a customizable wake word system and a sleek Tkinter GUI interface.
 
-#🚀 Features
+# Features
+
 -🎤 Wake Word Detection: Say "wake up" or "wake" to activate the assistant.
 
 -🧠 Voice Command Recognition: Understands various tasks like opening websites, apps, checking time/date, etc.
