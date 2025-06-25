@@ -32,3 +32,14 @@ This is a simple yet powerful Voice-Controlled Assistant built using Python. It 
 - **`tkinter`** – GUI interface for easy control
 - **`winsound`** – Beep sound for feedback
 
+# 📝 Requirements
+
+Install the following Python libraries before running:
+
+pip install pyttsx3 SpeechRecognition psutil
+
+# 🙋‍♂️ Author
+Ayush – Student at IIT, passionate about integrating voice with intelligent interfaces.
+
+# 📜 License
+This project is open-source and available under the MIT License.
